@@ -1,7 +1,7 @@
 ![anime-logo-de-anime-person-human-outdoors-crowd-transparent-png-2487608-removebg-preview](https://user-images.githubusercontent.com/102013411/168346425-093e61a0-fdfb-40e2-8a5d-b06ef9520e5f.png)
 
 ## About Anime J?
-Anime J merupakan web untuk mencari daftar anime yg ingin ditonton. Aplikasi ini memiliki fitur membuat, mengubah, dan menghapus reservasi. Untuk membuat fitur tersebut tentu saja program ini memakai sistem CRUD yang tersedia pada web development.
+Anime J merupakan web untuk mendaftar anime yg ingin ditonton. Aplikasi ini memiliki fitur membuat, mengubah, dan menghapus reservasi. Untuk membuat fitur tersebut tentu saja program ini memakai sistem CRUD yang tersedia pada web development.
 
 Restorant is an application for making reservations or ordering places to parking. This application has the features of creating, changing and deleting reservations. To make this feature, of course, this program use the CRUD system that was available on web development.
 
