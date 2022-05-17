@@ -27,7 +27,7 @@ Hello everyone👋, My name is Aja Tifta Umara. I'm a student at syiah kuala uni
     <pre><code>cp .env.example .env</code></pre>
 5. Aktifkan key access menggunakan command artisan seperti berikut:
     <pre><code>php artisan key:generate</code></pre>
-6. Di dalam file .env ubahlah nama database yang ada di .env menjadi restorant
+6. Di dalam file .env ubahlah nama database yang ada di .env menjadi anime
     <pre><code>DB_DATABASE=anime</code></pre>
 8. Setelah itu buatlah database dengan menggunakan aplikasi XAMPP yang anda punya
     <pre><code> create database anime</code></pre>
