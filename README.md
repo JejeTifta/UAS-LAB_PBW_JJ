@@ -3,7 +3,7 @@
 ## About Anime J?
 Anime J merupakan web untuk mendaftar anime yg ingin ditonton. Aplikasi ini memiliki fitur membuat, mengubah, dan menghapus reservasi. Untuk membuat fitur tersebut tentu saja program ini memakai sistem CRUD yang tersedia pada web development.
 
-Restorant is an application for making reservations or ordering places to parking. This application has the features of creating, changing and deleting reservations. To make this feature, of course, this program use the CRUD system that was available on web development.
+
 
 ## About Creator 
 Hello everyone👋, My name is Aja Tifta Umara. I'm a student at syiah kuala university and this is my project for lab web-based programming final project.
